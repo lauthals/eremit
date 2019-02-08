@@ -1,6 +1,6 @@
-# Hugo theme Hermit
+# Hugo theme Eremit
 
-Hermit is a minimal and fast theme for Hugo. It's built for bloggers who want a simple and focused website.
+Eremit is a clean fork of [Hermit](https://github.com/Track3/hermit/), a minimal and fast theme for Hugo. It's built for bloggers who want a simple and focused website.
 
 ![](https://github.com/Track3/hermit/raw/master/images/screenshot.png)
 

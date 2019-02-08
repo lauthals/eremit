@@ -1,8 +1,8 @@
-name = "Hermit"
+name = "eremit"
 license = "MIT"
-licenselink = "https://github.com/Track3/hermit/blob/master/LICENSE"
-description = "A minimal and fast hugo theme for bloggers."
-homepage = "https://github.com/Track3/hermit"
+licenselink = "https://github.com/lauthals/eremit/blob/master/LICENSE"
+description = "A cleaner fork of heremit, the minimal and fast hugo theme for bloggers."
+homepage = "https://github.com/lauthals/eremit"
 tags = ["blog", "minimal", "dark", "responsive"]
 features = [
   "single column",
@@ -14,5 +14,5 @@ features = [
 min_version = 0.43
 
 [author]
-  name = "Track3"
-  homepage = "https://www.xxxlbox.com"
+  name = "lauthals"
+  homepage = "https://www.weissborn.me"
